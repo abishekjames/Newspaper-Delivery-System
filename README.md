@@ -3,4 +3,4 @@ This is my final year Group project.As a part of a year-long course module, my t
 
 **Technologies Used:** <br/>
 
-*Java, MySQL, Junit Testing, and Bitbucket Pipelines for CI / CD.
+* Java, MySQL, Junit Testing, and Bitbucket Pipelines for CI / CD.
