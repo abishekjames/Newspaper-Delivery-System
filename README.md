@@ -9,4 +9,4 @@ This is my final year Group project.As a part of a year-long course module, my t
 
 * Dylan West
 * Hong Zhou
-* Lakshmiprya Prakash
+* Lakshmipriya Prakash
